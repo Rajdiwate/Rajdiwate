@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raj Diwate
 
-🧠 Smart Contract Developer | DeFi Builder | Full Stack Engineer  
+🧠 Protocol Engineer | Full Stack Engineer  
 
 ---
 
