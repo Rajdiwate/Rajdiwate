@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raj Diwate
 
-🧠 Protocol Engineer | Full Stack Engineer  
+🧠 Full Stack Engineer  
 
 ---
 
@@ -12,7 +12,6 @@ I’m a developer focused on **building decentralized systems on EVM** while lev
 - 🔐 Focused on **secure, gas-optimized smart contracts**
 - 🧱 Strong foundation in **backend systems & microservices**
 - ☁️ Experienced with **AWS & scalable architectures**
-- 🚀 Passionate about **on-chain + off-chain system design**
 
 ---
 
