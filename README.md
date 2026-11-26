@@ -1,118 +1,14 @@
-# 👋 Hi, I'm Raj Diwate
+# Hi, I'm Raj Diwate 👋
 
-🧠 Full Stack Engineer  
+Software Development Engineer building **AI agents** and **full-stack products**, plus **DeFi smart contracts**. Associate Systems Engineer at **Syvora**, based in Indore, Madhya Pradesh, India.
 
----
+[LinkedIn](https://www.linkedin.com/in/rajdiwate) · [LeetCode](https://leetcode.com/u/rajdiwate786) · [rajdiwate03@gmail.com](mailto:rajdiwate03@gmail.com)
 
-## 🔗 About Me
+## What I'm working on
 
-I’m a developer focused on **building decentralized systems on EVM** while leveraging strong full-stack and distributed systems experience.
+- **An autonomous developer bot** that turns chat requests into pull requests: a state machine drives headless Claude Code workers that plan, code and test each task within cost and time caps.
+- **An authenticated MCP server** that gives agents read-only access to code repositories and on-chain data.
+- **A community Q&A agent** (Claude Agent SDK) for Telegram and the web, where a second model reviews every answer before it is sent. I benchmarked 4 model pairings over ~600 requests; the one we shipped answered all 54 test questions correctly.
+- **Solidity contracts** for a DeFi protocol: 20+ contracts across vaults, oracles and hubs, tested with Foundry and Hardhat and monitored with Tenderly.
 
-- ⚡ Building **DeFi protocols using Solidity**
-- 🔐 Focused on **secure, gas-optimized smart contracts**
-- 🧱 Strong foundation in **backend systems & microservices**
-- ☁️ Experienced with **AWS & scalable architectures**
-
----
-
-## ⛓️ Web3 & Blockchain
-
-- Solidity (EVM-based Smart Contracts)
-- DeFi Protocol Development
-- Smart Contract Security & Optimization
-- Gas Optimization Techniques
-- Contract Architecture & Design Patterns
-- Foundry / Hardhat (if using, keep/remove accordingly)
-- ERC Standards (ERC20, ERC721, etc.)
-
----
-
-## ⚙️ Tech Stack
-
-### 🧩 Languages
-- Solidity, TypeScript, JavaScript, Java, C++, SQL
-
-### 🔧 Backend & Systems
-- Node.js, Express  
-- Microservices Architecture  
-- Kafka (event-driven systems)  
-- Redis (caching & pub/sub)  
-- PostgreSQL  
-- Docker & Kubernetes  
-
-### 🎨 Frontend
-- React.js, Next.js  
-- Redux Toolkit  
-- Tailwind CSS, Material UI  
-
-### ☁️ Cloud & DevOps
-- AWS (Lambda, S3, RDS, CloudFormation, CloudFront)  
-- CI/CD Pipelines  
-- GitHub Actions  
-- Infrastructure as Code  
-
----
-
-## 🏗️ Projects
-
-### 🔗 DeFi Smart Contracts (Ongoing)
-- Building EVM-based DeFi protocols using Solidity  
-- Designing secure and modular contract systems  
-- Implementing gas-efficient logic and storage patterns  
-- Working on on-chain financial primitives  
-
----
-
-### 🚀 Code-Deployer
-- Full-stack deployment platform with microservices  
-- Docker-based sandboxed execution  
-- Kafka-powered distributed job queue  
-- CI/CD inspired architecture  
-
----
-
-### 💬 Chatify
-- Real-time chat app with microservices architecture  
-- Built using Next.js, Express, Socket.io  
-- Kafka + Redis for reliability & performance  
-- Fault-tolerant messaging system  
-
----
-
-## 💼 Experience
-
-### Frontend Developer @ The Meask (Remote)
-- Built scalable frontend systems with React  
-- Developed backend microservices with Node.js  
-- Reduced infra cost by 50% via AWS Lambda migration  
-- Designed production-grade AWS infrastructure  
-
----
-
-## 📈 Achievements
-
-- 🧩 Solved 200+ DSA problems  
-- 🔥 78-day LeetCode streak  
-- 🏅 Strong problem-solving & system design skills  
-
----
-
-## 📫 Connect With Me
-
-- 📧 rajdiwate03@gmail.com  
-- 💼 LinkedIn  
-- 💻 GitHub  
-
----
-
-## ⚡ Focus
-
-Currently exploring:
-- 🧠 Advanced DeFi primitives  
-- 🔐 Smart contract security  
-- ⚡ High-performance on-chain systems  
-- 🌐 Bridging Web2 systems with Web3  
-
----
-
-> “The future is decentralized — and I’m building for it.”
+Before Syvora, I owned the frontend at **The Meask**: React apps end to end, Node.js microservices, and a move from EC2 to AWS Lambda and CloudFront that cut operational costs by 50% and deployment failures by 90%+.
