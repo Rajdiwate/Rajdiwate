@@ -2,7 +2,7 @@
 
 Software Development Engineer building **AI agents** and **full-stack products**, plus **DeFi smart contracts**. Associate Systems Engineer at **Syvora**, based in Indore, Madhya Pradesh, India.
 
-[LinkedIn](https://www.linkedin.com/in/rajdiwate) · [LeetCode](https://leetcode.com/u/rajdiwate786) · [rajdiwate03@gmail.com](mailto:rajdiwate03@gmail.com)
+[Portfolio](https://portfolio-three-rho-tycixpqa7j.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rajdiwate) · [LeetCode](https://leetcode.com/u/rajdiwate786) · [rajdiwate03@gmail.com](mailto:rajdiwate03@gmail.com)
 
 ## What I'm working on
 
