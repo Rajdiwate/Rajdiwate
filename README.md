@@ -6,12 +6,12 @@ Software Development Engineer building **AI agents** and **full-stack products**
 
 ## What I'm working on
 
-- **An autonomous developer bot** that turns chat requests into pull requests: a state machine drives headless Claude Code workers that plan, code and test each task within cost and time caps.
-- **An authenticated MCP server** that gives agents read-only access to code repositories and on-chain data.
-- **A community Q&A agent** (Claude Agent SDK) for Telegram and the web, where a second model reviews every answer before it is sent. I benchmarked 4 model pairings over ~600 requests; the one we shipped answered all 54 test questions correctly.
+- **Backend APIs**, including an authenticated MCP server that gives AI agents read-only access to code repositories and on-chain data.
+- **Indexers** for on-chain data.
+- **Developer bots**: an autonomous bot that turns chat requests into pull requests, with a state machine driving headless Claude Code workers that plan, code and test each task within cost and time caps; and a community Q&A agent (Claude Agent SDK) where a second model reviews every answer before it is sent.
 - **Solidity contracts** for a DeFi protocol: 20+ contracts across vaults, oracles and hubs, tested with Foundry and Hardhat and monitored with Tenderly.
 
-Before Syvora, I owned the frontend at **The Meask**: React apps end to end, Node.js microservices, and a move from EC2 to AWS Lambda and CloudFront that cut operational costs by 50% and deployment failures by 90%+.
+Before Syvora, I owned the complete application at **The Meask**: React apps end to end, Node.js microservices, and a move from EC2 to AWS Lambda and CloudFront that cut operational costs and deployment failures by 90%+.
 
 ## Featured projects
 
